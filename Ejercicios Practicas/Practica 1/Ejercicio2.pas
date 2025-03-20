@@ -58,7 +58,7 @@ var
   a:tArch;
   nomArch: String;
 BEGIN
-	writeln('Ingrese el nombre del archivo con extension de ser necesario: ');
+  writeln('Ingrese el nombre del archivo con extension de ser necesario: ');
   readln(nomArch);
   writeln(' ');
   
