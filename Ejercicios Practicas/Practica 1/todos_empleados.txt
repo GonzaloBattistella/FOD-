@@ -1,0 +1,48 @@
+Numero de Empleado: 10
+Nombre: Edinson
+Apellido: Cavani
+Edad: 36
+DNI: 1234
+
+Numero de Empleado: 5
+Nombre: Leandro
+Apellido: Paredes
+Edad: 32
+DNI: 1435
+
+Numero de Empleado: 8
+Nombre: Rodrigo
+Apellido: De Paul
+Edad: 32
+DNI: 0
+
+Numero de Empleado: 100
+Nombre: Lionel
+Apellido: Scaloni
+Edad: 50
+DNI: 0
+
+Numero de Empleado: 1000
+Nombre: Lionel
+Apellido: Messi
+Edad: 36
+DNI: 2453
+
+Numero de Empleado: 1
+Nombre: Emiliano
+Apellido: Martinez
+Edad: 35
+DNI: 0
+
+Numero de Empleado: 2
+Nombre: Bilardo
+Apellido: Salvador
+Edad: 88
+DNI: 1045
+
+Numero de Empleado: 1010
+Nombre: Diego Armando
+Apellido: Maradona
+Edad: 72
+DNI: 0
+
