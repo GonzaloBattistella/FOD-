@@ -41,13 +41,13 @@ begin
   writeln('MENU DE OPCIONES');
   writeln('---------------------------------------');
   writeln('1. Cargar Archivo con Empleados.');
-  writeln('2. Mostrar Empleado con Nombre o Apellido determiado.');
+  writeln('2. Mostrar Empleado con Nombre o Apellido determinado.');
   writeln('3. Mostrar Listado de Empleados.');
   writeln('4. Mostrar Empleados Proximos a Jubilarse.');
   writeln('5. Agregar Empleado.');
   writeln('6. Modificar Edad Empleado.');
   writeln('7. Exportar Empleados a .txt.');
-  writeln('8. Exportar Empleados sinn DNI.');
+  writeln('8. Exportar Empleados sin DNI.');
   writeln('9. Salir.');
   writeln('---------------------------------------');
   writeln(' ');
@@ -58,10 +58,10 @@ end;
 procedure leerEmpleado(var emp:empleado);
 begin
   writeln(' ');
-  writeln('Ingrese el apellido: ');
+  writeln('Ingrese el apellido del Empleado: ');
   readln(emp.apellido);
   if(emp.apellido <> 'fin')then begin
-    writeln('Ingrese el nombre del empleado: ');
+    writeln('Ingrese el nombre del Empleado: ');
     readln(emp.nombre);
     writeln('Ingrese la edad del Empleado: ');
     readln(emp.edad);
