@@ -333,7 +333,7 @@ var
   nom_arch: string;
   opcion:integer;
 BEGIN
-	writeln('Ingrese el Nombre del Archivo: ');
+  writeln('Ingrese el Nombre del Archivo: ');
   readln(nom_arch);
   writeln(' ');
   
