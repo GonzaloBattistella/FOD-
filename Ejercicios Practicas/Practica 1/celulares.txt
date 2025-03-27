@@ -1,0 +1,36 @@
+101 50000.00  Samsung
+30 50  Pantalla AMOLED, 128GB
+Galaxy S21
+102 25000.00  Xiaomi
+20 15  Bateria 5000mAh, 64GB
+Redmi Note 10
+103 30000.00  Apple
+5 10  Chip A14 Bionic, 64GB
+iPhone 12
+104 15000.00  Motorola
+3 10  Camara 48MP, 32GB
+Moto G30
+105 8000.00  Huawei
+12 20  Pantalla IPS, 16GB
+Huawei Y7
+106 45000.00  Samsung
+25 30  Camara 108MP, 256GB
+Galaxy S22 Ultra
+107 10000.00  LG
+8 12  Bateria 4000mAh, 32GB
+LG K42
+108 60000.00  Apple
+7 10  Chip M1, 128GB
+iPhone 13 Pro
+109 20000.00  Nokia
+2 5  Pantalla 5.5", 32GB
+Nokia 5.4
+110 12000.00  Xiaomi
+60 80  Bateria 6000mAh, 128GB
+Poco X3
+140 10000.00 Xiaomi
+35 15 Bateria 5000mAh, 128GB
+Redmi 13C
+155 6000.00 Motorola
+0 10 Pantalla 5.2", 32GB
+E6S
