@@ -1,0 +1,10 @@
+101 1500.50 Drama
+El secreto de sus ojos
+102 1200.00 CienciaFiccion
+La invención de Morel
+103 1800.75 Policial
+Los crímenes de Alicia
+104 950.30 Romance
+Rayuela
+105 1600.00 Terror
+El túnel
