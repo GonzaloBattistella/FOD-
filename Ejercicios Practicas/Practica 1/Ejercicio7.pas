@@ -188,7 +188,7 @@ var
   nomArch:string;
   opcion:integer;
 BEGIN
-	writeln('Ingrese el nombre del archivo. ');
+  writeln('Ingrese el nombre del archivo. ');
   readln(nomArch);
   assign(a, nomArch);
   
