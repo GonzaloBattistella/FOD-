@@ -155,7 +155,7 @@ var
   det: tDetalle;
   mae: tMaestro;
 BEGIN
-	assign(det, 'detalle_materias.dat'); //Archivo detalle
+  assign(det, 'detalle_materias.dat'); //Archivo detalle
   assign(mae, 'alumnos.dat'); //Archivo Maestro
   
   actualizarMaestro(mae, det);
