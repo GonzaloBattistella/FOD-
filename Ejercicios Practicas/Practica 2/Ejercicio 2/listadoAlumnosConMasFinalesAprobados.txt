@@ -1,0 +1,5 @@
+1002 Garcia Carlos -3 10
+1004 Rodriguez Martin 2 5
+1005 Fernandez Sofia 1 9
+1007 Diaz Valentina -8 14
+1008 Benitez Juan 3 6
