@@ -150,7 +150,7 @@ var
   m:tMaestro;
   det1, det2: tDetalle;
 BEGIN
-	assign(m, 'maestro_provincias.dat');
+  assign(m, 'maestro_provincias.dat');
   assign(det1, 'detalle_agencia1.dat');
   assign(det2, 'detalle_agencia2.dat');
   
