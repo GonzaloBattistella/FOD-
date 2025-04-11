@@ -173,7 +173,7 @@ var
   m:tMaestro;
   d:detalles; //Arreglo con archivos detalles.
 BEGIN	
-	assign(m, 'maestro_sesiones.dat'); //La ruta tendria que ser: /var/log/maestro_sesiones.dat
+  assign(m, 'maestro_sesiones.dat'); //La ruta tendria que ser: /var/log/maestro_sesiones.dat
   asignarArchivosDetalles(d); 
   actualizarMaestro(m,d);
   imprimirMaestro(m);
