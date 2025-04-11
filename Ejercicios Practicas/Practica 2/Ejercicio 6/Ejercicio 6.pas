@@ -15,6 +15,8 @@
       inclusive, en diferentes máquinas.
  
     ● El archivo maestro debe crearse en la siguiente ubicación física: /var/log.
+  
+  NOTA: NO me genera bien el archivo maestro, creo que es por un problema con los datos de los archivos, el codigo parace estar bien.
 }
 
 
